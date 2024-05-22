@@ -10,4 +10,4 @@
 ![Skills](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Rober GitHub stats](https://github-readme-stats.vercel.app/api?username=RoberBsa&show_icons=true&theme=dracula)
+![Rober GitHub stats](https://github-readme-stats.vercel.app/api?username=roberbsa&show_icons=true&theme=dracula)
