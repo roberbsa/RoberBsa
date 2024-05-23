@@ -1,4 +1,4 @@
-### Me chamo Rober Batista, tenho 22 anos e atualmente curso Sistemas de Informação na UFPI Campus Picos. 
+ 
 ### Áreas de interesse: Ciber Segurança, Redes de Computadores e Pesquisa Cientifíca.
 
 
