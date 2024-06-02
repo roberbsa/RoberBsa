@@ -1,5 +1,5 @@
  
-### Áreas de interesse: Ciber Segurança, Redes de Computadores e Pesquisa Cientifíca.
+### Áreas de interesse: Ciber Segurança, Redes de Computadores e Pesquisa Científica.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roberbsa/)
