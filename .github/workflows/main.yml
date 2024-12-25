@@ -11,9 +11,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
-    
-  
+      - master
 
 jobs:
   generate:
@@ -31,10 +29,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
+          color_snake: "#00FF00" # Define a cor da cobrinha como verde
           
       # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>, or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
