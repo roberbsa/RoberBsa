@@ -22,9 +22,9 @@
 ##
 
 <div>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=roberbsa&show_icons=true&theme=dracula" alt="Rober GitHub stats">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=roberbsa&show_icons=true&theme=dracula" alt="Rober GitHub stats">
   <br><br>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberbsa&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Rober's Top Languages">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberbsa&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Rober's Top Languages">
 </div>
 
 <picture>
