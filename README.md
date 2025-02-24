@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Áreas de interesse:  
-**Ciber Segurança, Redes de Computadores e Pesquisa Científica**
+**Cyber Segurança, Redes de Computadores e Pesquisa Científica**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
