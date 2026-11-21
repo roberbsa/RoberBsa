@@ -9,7 +9,7 @@
   <img align="center" alt="Wireshark" height="45" width="55" src="https://cdn.simpleicons.org/wireshark/1679A7">
   <img align="center" alt="Linux" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bash" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg">
+  <img align="center" alt="Bash" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/bash/bash-original.svg">
 </div>
 
 ##
