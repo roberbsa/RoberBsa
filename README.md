@@ -40,10 +40,10 @@ Atuo como **Cyber Security Analyst na BlackBelt IT Security**.
 
 ---
 
-<p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=roberbsa&show_icons=true&theme=dracula" alt="GitHub Stats">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberbsa&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roberbsa&cache_seconds=1800&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roberbsa&cache_seconds=1800&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roberbsa/roberbsa/output/github-contribution-grid-snake-dark.svg">
