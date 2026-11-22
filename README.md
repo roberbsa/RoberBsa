@@ -1,6 +1,6 @@
 <div align="center">
 
-Estudante de **Sistemas de Informação na Universidade Federal do Piauí (UFPI)**.
+Estudante de **Sistemas de Informação na Universidade Federal do Piauí (UFPI)**, com interesse nas áreas de **Cibersegurança e Redes de Computadores**.
 
 Atuo como **Cyber Security Analyst na BlackBelt IT Security**.
 
