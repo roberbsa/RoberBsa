@@ -19,7 +19,7 @@ Atuo como **Cyber Security Analyst na BlackBelt IT Security**.
   <img width="12" />
   <img alt="cURL" title="cURL" height="45" width="45" src="./assets/curl.png">
   <img width="12" />
-  <img alt="OWASP ZAP" title="OWASP ZAP" height="50" width="50" src="./assets/owzap.png">
+  <img alt="OWASP ZAP" title="OWASP ZAP" height="55" width="55" src="./assets/owzap.png">
   <img width="12" />
   <img alt="JWT.io" title="JWT.io" height="45" width="45" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jwt-io.svg">
   <img width="12" />
