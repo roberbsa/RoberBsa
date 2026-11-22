@@ -6,8 +6,6 @@ Atuo como **Cyber Security Analyst na BlackBelt IT Security**.
 
 ---
 
-### Áreas de interesse
-
 `Cybersecurity` • `Offensive Security / Red Team` • `Defensive Security / Blue Team` • `Computer Networks`
 
 ---
