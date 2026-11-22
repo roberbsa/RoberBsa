@@ -7,7 +7,7 @@ Estudante de **Sistemas de Informação na Universidade Federal do Piauí (UFPI)
 
 Interesse em Cibersegurança, Segurança Ofensiva, Segurança Defensiva e Redes de Computadores.
 
-Atualmente atuo como Cyber Security Analist na BlackBelt IT Security.
+Atuo como Cyber Security Analist na BlackBelt IT Security.
 
 ---
 
@@ -19,17 +19,11 @@ Atualmente atuo como Cyber Security Analist na BlackBelt IT Security.
 
 ### Ferramentas de Cibersegurança
 
-<img alt="OWASP" height="45" width="50" src="https://raw.githubusercontent.com/OWASP-Foundation/OWASP-Images/master/owasp_logo_1c_w_icon.png">
 <img alt="Burp Suite" height="45" width="50" src="https://cdn.simpleicons.org/burpsuite/FF6633">
+<img align="center" alt="OWASP ZAP" height="45" width="55" src="https://cdn.simpleicons.org/zap/00549E">
+<img align="center" alt="JWT.io" height="45" width="55" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jwt-io.svg">
 <img alt="Wireshark" height="45" width="50" src="https://cdn.simpleicons.org/wireshark/1679A7">
-<img alt="Metasploit" height="45" width="50" src="https://cdn.simpleicons.org/metasploit/2596CD">
 
-
-<br><br>
-
-<img alt="Nmap" src="https://img.shields.io/badge/Nmap-005C84?style=for-the-badge">
-<img alt="OWASP ZAP" src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge">
-<img alt="SQLmap" src="https://img.shields.io/badge/SQLmap-444444?style=for-the-badge">
 
 ---
 
