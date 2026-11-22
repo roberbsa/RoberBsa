@@ -1,7 +1,4 @@
-
 <div align="center">
-
-### Sobre mim
 
 Estudante de **Sistemas de Informação na Universidade Federal do Piauí (UFPI)**.
 
@@ -37,7 +34,7 @@ Atuo como **Cyber Security Analyst na BlackBelt IT Security**.
 <a href="https://www.linkedin.com/in/roberbatista">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:rober.sa@ufpi.edu.br">
+<a href="mailto:roberbattista@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
@@ -45,7 +42,7 @@ Atuo como **Cyber Security Analyst na BlackBelt IT Security**.
 
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=roberbsa&show_icons=true&theme=dracula" alt="GitHub Stats">
 
-<br>
+<br><br>
 
 <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberbsa&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages">
 
@@ -54,7 +51,7 @@ Atuo como **Cyber Security Analyst na BlackBelt IT Security**.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roberbsa/roberbsa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roberbsa/roberbsa/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/roberbsa/roberbsa/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/roberbsa/roberbsa/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
