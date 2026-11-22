@@ -20,6 +20,8 @@ Atuo como **Cyber Security Analyst na BlackBelt IT Security**.
   <img alt="Linux" title="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img alt="Python" title="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Bash" title="Bash" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img width="12" />
+<img src="https://cdn.simpleicons.org/curl/073551" height="40" alt="cURL" title="cURL" />
 </p>
 
 ---
