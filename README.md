@@ -14,34 +14,25 @@ Atuo como **Cyber Security Analyst na BlackBelt IT Security**.
 
 
 
-
-
 <p align="center">
-  <img alt="Burp Suite" title="Burp Suite" height="45" width="45" src="
-https://cdn.simpleicons.org/burpsuite/FF6633">
+  <img alt="Burp Suite" title="Burp Suite" height="45" width="45" src="https://cdn.simpleicons.org/burpsuite/FF6633">
   <img width="12" />
   <img alt="cURL" title="cURL" height="45" width="45" src="./assets/curl.png">
   <img width="12" />
   <img alt="OWASP ZAP" title="OWASP ZAP" height="45" width="45" src="./assets/owzap.jpg">
   <img width="12" />
-  <img alt="JWT.io" title="JWT.io" height="45" width="45" src="
-https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jwt-io.svg">
+  <img alt="JWT.io" title="JWT.io" height="45" width="45" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jwt-io.svg">
   <img width="12" />
   <img alt="Wazuh" title="Wazuh" height="45" width="45" src="./assets/Wazuh_blue-removebg-preview.png">
   <img width="12" />
-  <img alt="Wireshark" title="Wireshark" height="45" width="45" src="
-https://cdn.simpleicons.org/wireshark/1679A7">
+  <img alt="Wireshark" title="Wireshark" height="45" width="45" src="https://cdn.simpleicons.org/wireshark/1679A7">
   <img width="12" />
-  <img alt="Linux" title="Linux" height="45" width="45" src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img alt="Linux" title="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img width="12" />
-  <img alt="Python" title="Python" height="45" width="45" src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Python" title="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img width="12" />
-  <img alt="Bash" title="Bash" height="45" width="45" src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img alt="Bash" title="Bash" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </p>
-
 
 
 
