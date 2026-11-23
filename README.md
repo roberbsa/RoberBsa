@@ -27,7 +27,7 @@ Atuo como **Cyber Security Analyst na BlackBelt IT Security**.
   <img width="12" />
   <img alt="Wireshark" title="Wireshark" height="45" width="45" src="https://cdn.simpleicons.org/wireshark/1679A7">
   <img width="12" />
-  <img alt="OpenCode" title="OpenCode" height="45" width="45" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode.svg">
+  <img alt="OpenCode" title="OpenCode" height="45" width="36" src="https://opencode.ai/brand/files/opencode-logo-dark.svg">
   <img width="12" />
   <img alt="Linux" title="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img width="12" />
